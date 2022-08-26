@@ -153,6 +153,7 @@ I have eye fatigue.
 [basic_info]: https://www.onetransistor.eu/2017/08/ch341a-mini-programmer-schematic.html "Click me!"
 [basic_tutorial]: https://www.youtube.com/watch?v=4qX2zihB6UE "Click meeee!"
 [flashing_tutorial]: https://www.youtube.com/watch?v=r8f-3syiFSc "Click Me please :D"
+
 [drv_windows1]: http://wch-ic.com/downloads/CH341SER_EXE.html
 [drv_windows2]: http://wch-ic.com/downloads/CH341PAR_EXE.html
 [drv_linux_old]: http://wch-ic.com/downloads/CH341SER_LINUX_ZIP.html
@@ -165,3 +166,16 @@ I have eye fatigue.
 [NeoProgrammer]: https://receiverpro.net/dl/neoprogrammer-v2-2-0-10_15102021/
 [SiberiaProg]: https://receiverpro.net/dl/siberiaprog-ch341a-new-update-v1-45-04-02-2022/
 [FlashRomScript]: ./flashrom_installer.sh
+
+[gif_windows_install_ch341a]upload directory to github]: 
+[gif_unix_install_ch341a]: 
+[gif_android_install_ch341a]: 
+
+[gif_clamp_on_ch341a]: 
+[gif_clamp_to_pc]: 
+
+[gif_biosflash_asprogrammer]: 
+[gif_biosflash_neoprogrammer]: 
+[gif_biosflash_siberiaprog]: 
+[gif_biosflash_ch341aprogrammer]: 
+[gif_biosflash_flashrom]: 
