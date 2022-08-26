@@ -99,17 +99,21 @@ commands here
 
 ### B. Flashing the BIOS/UEFI
 
-#### On Windows
+#### With ASProgrammer
 
 GIF here
 
-#### On Linux, MacOS X, FreeBSD, OpenBSD and DragonflyBSD
+#### With NeoProgrammer
 
 GIF here
 
-#### On Android
+#### With SiberiaProg
 
 GIF here
+
+### With CH341A Programmer
+
+### With FlashROM
 
 ## Final thoughts
 
