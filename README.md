@@ -172,10 +172,19 @@ I have eye fatigue.
 [gif_android_install_ch341a]: 
 
 [gif_clamp_on_ch341a]: 
-[gif_clamp_to_pc]: 
+[gif_clamp_to_1st_pc]: 
+[gif_ch341a_usb_to_2nd_pc]: 
 
-[gif_biosflash_asprogrammer]: 
-[gif_biosflash_neoprogrammer]: 
-[gif_biosflash_siberiaprog]: 
-[gif_biosflash_ch341aprogrammer]: 
-[gif_biosflash_flashrom]: 
+[gif_asprogrammer_biosdump]: 
+[gif_neoprogrammer_biosdump]: 
+[gif_siberiaprog_biosdump]: 
+[gif_ch341aprogrammer_biosdump]: 
+[gif_flashrom_biosdump]: 
+
+[gif_asprogrammer_biosflash]: 
+[gif_neoprogrammer_biosflash]: 
+[gif_siberiaprog_biosflash]: 
+[gif_ch341aprogrammer_biosflash]: 
+[gif_flashrom_biosflash]: 
+
+
