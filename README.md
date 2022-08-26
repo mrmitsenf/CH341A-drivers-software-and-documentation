@@ -167,7 +167,7 @@ I have eye fatigue.
 [SiberiaProg]: https://receiverpro.net/dl/siberiaprog-ch341a-new-update-v1-45-04-02-2022/
 [FlashRomScript]: ./flashrom_installer.sh
 
-[gif_windows_install_ch341a]upload directory to github]: 
+[gif_windows_install_ch341a]: 
 [gif_unix_install_ch341a]: 
 [gif_android_install_ch341a]: 
 
