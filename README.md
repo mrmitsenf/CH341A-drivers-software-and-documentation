@@ -57,7 +57,7 @@ Complete ALL the steps below to make sure you understand how to use CH341A
 
 Disconnect the CH341A programmer if you plugged it into your PC before installing the software.
 
-#### Windows (right-click, then click on "Run As Administrator" for each driver)
+#### Windows
 
 GIF here
 
@@ -95,6 +95,37 @@ commands here
 
 ### A. Editing the BIOS/UEFI
 
+There are various ways to edit one's BIOS/UEFI firmware.
+I will put a list of tools here to help you get started, but you will have to play with them, for now.
+
+#### "Universal"
+
+#### Intel ME
+
+#### AMD PSP
+
+#### Insyde H2O
+
+#### Aptio
+
+#### Phoenix
+
+#### American Mega Trends
+
+#### SeaBIOS
+
+#### MSI
+
+#### Gigabyte
+
+#### HP
+
+#### Dell
+
+#### ASUS
+
+
+
 
 
 ### B. Flashing the BIOS/UEFI
@@ -111,9 +142,9 @@ GIF here
 
 GIF here
 
-### With CH341A Programmer
+#### With CH341A Programmer
 
-### With FlashROM
+#### With FlashROM
 
 ## Final thoughts
 
