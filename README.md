@@ -1,3 +1,4 @@
+# THIS README IS UNDER HEAVY DEVELOPMENT. Do not use it until its done!
 
 # CH341A-drivers-software-and-documentation
 
@@ -54,9 +55,38 @@ Complete ALL the steps below to make sure you understand how to use CH341A
 
 ### B. Installing the tools
 
+Disconnect the CH341A programmer if you plugged it into your PC before installing the software.
+
+#### Windows (right-click, then click on "Run As Administrator" for each driver)
+
+GIF here
+
+```
+commands here
+```
+
+#### Linux, MacOS X, FreeBSD, OpenBSD and DragonflyBSD
+
+GIF here
+
+```
+commands here
+```
+
+#### Android
+
+GIF here
+
+```
+commands here
+```
+
+
 ## IV. Gathering information about that BIOS/UEFI firmware
 
 ### A. Backing up BIOS information
+
+
 
 ### B. Dumping the FULL BIOS Image 
 
@@ -65,7 +95,25 @@ Complete ALL the steps below to make sure you understand how to use CH341A
 
 ### A. Editing the BIOS/UEFI
 
+
+
 ### B. Flashing the BIOS/UEFI
+
+#### On Windows
+
+GIF here
+
+#### On Linux, MacOS X, FreeBSD, OpenBSD and DragonflyBSD
+
+GIF here
+
+#### On Android
+
+GIF here
+
+## Final thoughts
+
+I have eye fatigue.
 
 [basic_info]: https://www.onetransistor.eu/2017/08/ch341a-mini-programmer-schematic.html "Click me!"
 [basic_tutorial]: https://www.youtube.com/watch?v=4qX2zihB6UE "Click meeee!"
