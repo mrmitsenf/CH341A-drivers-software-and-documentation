@@ -98,35 +98,7 @@ commands here
 There are various ways to edit one's BIOS/UEFI firmware.
 I will put a list of tools here to help you get started, but you will have to play with them, for now.
 
-#### "Universal"
-
-#### Intel ME
-
-#### AMD PSP
-
-#### Insyde H2O
-
-#### Aptio
-
-#### Phoenix
-
-#### American Mega Trends
-
-#### SeaBIOS
-
-#### MSI
-
-#### Gigabyte
-
-#### HP
-
-#### Dell
-
-#### ASUS
-
-
-
-
+[UEFI-BIOS-MODDING-TOOLS][]
 
 ### B. Flashing the BIOS/UEFI
 
@@ -166,6 +138,8 @@ I have eye fatigue.
 [NeoProgrammer]: https://receiverpro.net/dl/neoprogrammer-v2-2-0-10_15102021/
 [SiberiaProg]: https://receiverpro.net/dl/siberiaprog-ch341a-new-update-v1-45-04-02-2022/
 [FlashRomScript]: ./flashrom_installer.sh
+
+[uefi_bios_modding_tools]: ./tools/
 
 [gif_windows_install_ch341a]: 
 [gif_unix_install_ch341a]: 
